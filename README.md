@@ -1,10 +1,10 @@
 <table>
       <tbody>
         <tr>
-          <td>윤지</td>
-          <td>윤지</td>
-          <td>윤지</td>
-          <td>윤지</td>
+          <td>진태</td>
+          <td>진태</td>
+          <td>진태</td>
+          <td>진태</td>
           <td>윤지</td>
         </tr>
         <tr>
