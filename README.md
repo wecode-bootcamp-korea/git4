@@ -1,18 +1,18 @@
 <table>
       <tbody>
         <tr>
-          <td>윤지</td>
-          <td>윤지</td>
-          <td>윤지</td>
-          <td>윤지</td>
-          <td>윤지</td>
+          <td>진태</td>
+          <td>진태</td>
+          <td>진태</td>
+          <td>진태</td>
+          <td>진태</td>
         </tr>
         <tr>
-          <td>이솨환</td>
-          <td>이시환</td>
-          <td>이시환</td>
-          <td>이시환</td>
-          <td>이시환</td>
+          <td>진태</td>
+          <td>진태</td>
+          <td>진태</td>
+          <td>진태</td>
+          <td>진태</td>
         </tr>
       </tbody>
 </table>
