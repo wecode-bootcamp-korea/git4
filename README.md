@@ -1,21 +1,10 @@
 <table>
   <tbody>
     <tr>
-      <td>성정민</td>
-      <td>성정민</td>
-      <td>성정민</td>
-      <td>성정민</td>
-    </tr>
-    <tr>
-      <td>성정민</td>
-      <td>성정민</td>
-      <td>성정민</td>
-      <td>성정민</td>
-    </tr><tr>
-      <td>성정민</td>
-      <td>성정민</td>
-      <td>성정민</td>
-      <td>성정민</td>
+      <td>윤지</td>
+      <td>윤지</td>
+      <td>윤지</td>
+      <td>윤지</td>
     </tr><tr>
       <td>성정민</td>
       <td>성정민</td>
