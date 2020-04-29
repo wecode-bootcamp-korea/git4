@@ -13,8 +13,8 @@
           <td>성정민</td>
           <td>성정민</td>
           <td>성정민</td>
-        </tr>
-      </tbody>
+	</tr>
+	</tbody>
 </table>
 
 ## 땅따먹기 게임
