@@ -1,8 +1,8 @@
 <table>
   <tbody>
     <tr>
-      <td>진태</td>
-      <td>진태</td>
+      <td>jinah</td>
+      <td>jinah</td>
       <td>진태</td>
       <td>수정</td>
     </tr>
