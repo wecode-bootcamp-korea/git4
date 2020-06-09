@@ -7,10 +7,10 @@
       <td>안우현</td>
     </tr>
     <tr>
-      <td>태기</td>
-      <td>태기</td>
-      <td>태기</td>
       <td>안우현</td>
+      <td>종선</td>
+      <td>종선</td>
+      <td>종선</td>
     </tr>
   </tbody>
 </table>
