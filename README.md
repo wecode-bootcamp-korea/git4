@@ -1,13 +1,13 @@
 <table>
   <tbody>
     <tr>
-      <td>안우현</td>
-      <td>태기</td>
-      <td>태기</td>
-      <td>안우현</td>
+      <td>jinah lee</td>
+      <td>jinah</td>
+      <td>jinah</td>
+      <td>jinah</td>
     </tr>
     <tr>
-      <td>태기</td>
+      <td>jinah</td>
       <td>태기</td>
       <td>태기</td>
       <td>안우현</td>
