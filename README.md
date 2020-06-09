@@ -3,8 +3,8 @@
     <tr>
       <td>jinah</td>
       <td>jinah</td>
-      <td>진태</td>
-      <td>수정</td>
+      <td>jinah</td>
+      <td>jinah</td>
     </tr>
     <tr>
       <td>진태</td>
